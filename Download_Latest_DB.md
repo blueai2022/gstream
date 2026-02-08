@@ -1,4 +1,4 @@
-Instructions to Download the Latest DB
+#Instructions to Download the Latest DB
 
 ## Step 1: Pull the files
 ```bash
