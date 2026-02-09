@@ -16,7 +16,7 @@ git pull origin
 ## Step 3: Reassemble the file
 ```bash
 cd db
-cat news_db_part_* > news_database_07.db.gz
+cat news_part_* > news_database_07.db.gz
 ```
 **Expected output:** No output means success. A new file `news_database_07.db.gz` will be created.
 
